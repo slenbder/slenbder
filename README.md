@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://github.com/slenbder/vanto-showcase"><img src="assets/vanto.svg" width="100%" alt="Vanto — macOS menu-bar app: copy everything, paste in order. Coming soon."></a>
+<a href="https://github.com/slenbder/vanto-showcase"><img src="assets/vanto.svg" width="100%" alt="Vanto — macOS menu-bar app: copy everything, paste in order. Out now."></a>
 
 <a href="https://github.com/slenbder/HorecaTime"><img src="assets/horecatime.svg" width="100%" alt="HorecaTime — Telegram bot for restaurant shifts, hours and payroll. In beta."></a>
 
